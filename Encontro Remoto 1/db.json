@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "nome": "Matheus",
+      "email": "matheus@email.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "email": "matheus@email.com",
+      "senha": "1234",
+      "id": 2
+    },
+    {
+      "email": "caique@email.com",
+      "senha": "senha123",
+      "id": 3
+    }
+  ]
+}
